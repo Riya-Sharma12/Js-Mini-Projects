@@ -1,0 +1,27 @@
+.container p{
+    padding-bottom: 10px;
+}
+.container div{
+    padding-bottom: 10px;
+}
+p{
+    font-size: 40px;
+    margin: 0px;
+}
+.IncreDecre button{
+    width: 50px; 
+    height: 30px;  
+    background-color: aqua;
+    border : 1px solid;
+    border-radius: 4px;
+    
+}
+.container{
+    text-align: center;
+   
+}
+body{
+    background-color:cadetblue
+}
+
+
